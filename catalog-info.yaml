@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: 3vanlock/backstage
     backstage.io/kubernetes-id: backstage
+    backstage.io/techdocs-ref: dir:.
   links:
     - url: https://grafana.ops.aws.cudaops.com/dashboards/f/0dglt4U7k/ccb?tag=ccb-v3
       title: CCBv3 Dashboards
