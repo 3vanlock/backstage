@@ -6,8 +6,8 @@ metadata:
     github.com/project-slug: 3vanlock/backstage
     backstage.io/kubernetes-id: backstage
   links:
-    - url: CCBv3 Dashboards
-      title: https://grafana.ops.aws.cudaops.com/dashboards/f/0dglt4U7k/ccb?tag=ccb-v3
+    - url: https://grafana.ops.aws.cudaops.com/dashboards/f/0dglt4U7k/ccb?tag=ccb-v3
+      title: CCBv3 Dashboards
 spec:
   type: service
   lifecycle: unknown
