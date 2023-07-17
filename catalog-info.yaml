@@ -8,6 +8,7 @@ metadata:
   links:
     - url: https://grafana.ops.aws.cudaops.com/dashboards/f/0dglt4U7k/ccb?tag=ccb-v3
       title: CCBv3 Dashboards
+      icon: dashboard
 spec:
   type: service
   lifecycle: unknown
